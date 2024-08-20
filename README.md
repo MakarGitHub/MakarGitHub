@@ -1,4 +1,4 @@
-## Мои навыки/My skills ##
+## Мои навыки ##
 + Golang
 + SQL
 + Redis
