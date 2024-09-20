@@ -2,6 +2,7 @@
 + Golang
 + SQL
 + Redis
-+ Docker
++ Docker - compose
++ gRPC
 + Git
 + Фреймворки: echo
